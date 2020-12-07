@@ -1,0 +1,19 @@
+services:
+  invillia.challenge.api:
+    build:
+      context: C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge
+      dockerfile: Invillia.Challenge.Api/Dockerfile
+    container_name: challenge-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: invilliachallengeapi
+    ports:
+    - published: 8080
+      target: 80
+    - published: 4443
+      target: 443
+    volumes:
+    - C:\Users\Guilherme\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Guilherme\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

@@ -1,0 +1,14 @@
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Invillia.Challenge.EntityFrameworkCore.deps.json
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Invillia.Challenge.EntityFrameworkCore.dll
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Invillia.Challenge.EntityFrameworkCore.pdb
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.dll
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Invillia.Challenge.Domain.dll
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Invillia.Challenge.Domain.pdb
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.pdb
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Invillia.Challenge.EntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Invillia.Challenge.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Invillia.Challenge.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Invillia.Challenge.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Invillia.Challenge.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Invillia.Challenge.EntityFrameworkCore.dll
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Invillia.Challenge.EntityFrameworkCore.pdb

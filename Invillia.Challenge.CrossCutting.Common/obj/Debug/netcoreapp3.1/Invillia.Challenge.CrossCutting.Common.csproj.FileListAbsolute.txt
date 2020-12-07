@@ -1,0 +1,9 @@
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.CrossCutting.Common\bin\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.deps.json
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.CrossCutting.Common\bin\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.dll
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.CrossCutting.Common\bin\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.pdb
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.CrossCutting.Common\obj\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.CrossCutting.Common\obj\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.CrossCutting.Common\obj\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.CrossCutting.Common\obj\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.CrossCutting.Common\obj\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.dll
+C:\Users\Guilherme\source\repos\Invillia\Backend\Invillia.Challenge\Invillia.Challenge.CrossCutting.Common\obj\Debug\netcoreapp3.1\Invillia.Challenge.CrossCutting.Common.pdb
